@@ -11,24 +11,22 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: 기억보다는 기록을                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 하루에 하나씩   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  web developer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://choiwookjin.github.io/
 
 github:
-  username: github_username             # change to your github username
+  username: choiwookjin             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,8 +38,8 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/      # change to your twitter homepage
+    - https://github.com/choiwookjin       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
